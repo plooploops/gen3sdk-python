@@ -27,6 +27,7 @@ backoff = "*"
 click = "*"
 pandas = "*"
 pypfb = "<1.0.0"
+azure-storage-blob = "12.6.0"
 
 [tool.poetry.dev-dependencies]
 pytest = ">=3.2.3"
